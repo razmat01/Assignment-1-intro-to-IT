@@ -51,6 +51,9 @@ h2{
   font-family: Arial;
   color:white;
 }
+.subheading{
+  font-style: italic;
+}
 .link_top{
 
   font-size: 16px;
@@ -90,4 +93,9 @@ a:visited{
   float:right;
 
 
+}
+#lugia{
+  width: 150px;
+  magin: 3px;
+  float:right;
 }
